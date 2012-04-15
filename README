@@ -1,0 +1,12 @@
+== Details ==
+* iPhone iOS 5 sample application to present inbuilt Twitter capabilities.
+
+== Development Environment ==
+* Xcode 4.3.2
+* iOS 5.1
+
+
+== Known issues ==
+* This app requires iOS to be pre-configured with one Twitter account. 
+  Since twitter facility is not available in Simulator, this program will not work in Simulator, 
+  but work on iPhone 5.x device.
